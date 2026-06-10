@@ -1,0 +1,5 @@
+0|09:00|10:30|Calculus Lecture|Hall A
+0|11:00|12:30|Physics Lab|Lab 4
+2|14:00|15:30|English Lit|Room 201
+4|10:00|11:30|Chemistry Sem|Hall C
+0|10:00|11:00|maths|room
